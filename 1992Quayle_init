@@ -1040,11 +1040,6 @@ if(!campaignTrail_temp.loaded1){
       "description" : "Defeat Al Gore.",
       "cannotBeCheated" : true
   },
-  "Schwarzkopf" : {
-    "image" : "https://i.imgur.com/4GCn4BN.png",
-    "description" : "Defeat Norman Schwarzkopf.",
-    "cannotBeCheated" : true
-  },
   "Pat" : {
     "image" : "https://i.imgur.com/5R28kY2.jpeg",
     "description" : "Defeat Pat Schroder.",
@@ -1084,115 +1079,5 @@ if(!campaignTrail_temp.loaded1){
     "image" : "https://i.imgur.com/uTxrt0B.jpeg",
     "description" : "Lose the 1992 Republican Primary.",
     "cannotBeCheated" : true
-  },
-  "Loved by the People" : {
-    "image" : "https://i.imgur.com/9dNIIEF.png",
-    "description" : "Beat Ted Kennedy with a failed domestic agenda.",
-    "cannotBeCheated" : true
-  },
-  "Dove" : {
-    "image" : "https://i.imgur.com/wXpPg5o.png",
-    "description" : "Don't go to war over the course of your first term.",
-    "cannotBeCheated" : true
-  },
-  "Chickenhawk" : {
-    "image" : "https://i.imgur.com/K4nriEG.png",
-    "description" : "Get involved in one war over the course of your first term.",
-    "cannotBeCheated" : true
-  },
-  "Hawk" : {
-    "image" : "https://i.imgur.com/4ttslI4.png",
-    "description" : "Get involved in two wars over the course of your first term.",
-    "cannotBeCheated" : true
-  },
-  "I Burn My Bridges Behind Me" : {
-    "image" : "https://i.imgur.com/pzIug8b.png",
-    "description" : "Get involved in three wars over the course of your first term.",
-    "cannotBeCheated" : true
-  },
-  "Compassion of the Conservative" : {
-    "image" : "https://i.imgur.com/fjuxxqQ.png",
-    "description" : "Refuse to exploit your opponent's race, religion, or gender, and win.",
-    "cannotBeCheated" : true
-  },
-  "Goldwater Girl" : {
-    "image" : "https://i.imgur.com/IAW5K8P.png",
-    "description" : "Get Hillary to lead the charge on social security reform and vote for the invasion of Iraq.",
-    "cannotBeCheated" : true
-  },
-  "Known Unknowns" : {
-    "image" : "https://i.imgur.com/Bucsp4k.png",
-    "description" : "Invade Iraq after firing Rumsfeld.",
-    "cannotBeCheated" : true
-  },
-  "Decision Points" : {
-    "image" : "https://i.imgur.com/NJLA7kf.png",
-    "description" : "Pass every bill without compromising.",
-    "cannotBeCheated" : true
-  },
-  "SAM239" : {
-    "image" : "https://i.imgur.com/Pf1zC9P.png",
-    "description" : "Replace your Vice President against his will.",
-    "cannotBeCheated" : true
-  },
-  "Loose Change" : {
-    "image" : "https://i.imgur.com/eanImUo.png",
-    "description" : "Avoid all blame for the missing Pentagon funds.",
-    "cannotBeCheated" : true
-  },
-  "The Conqueror" : {
-    "image" : "https://i.imgur.com/dPJjzYa.png",
-    "description" : "Have no worlds left to conquer.",
-    "cannotBeCheated" : true
-  },
-  "Annihilation" : {
-    "image" : "https://i.imgur.com/LsO6mUw.png",
-    "description" : "Win all 50 states against an evil man.",
-    "cannotBeCheated" : true
-  },
-  "The Glass King" : {
-    "image" : "https://i.imgur.com/DFuHvuC.png",
-    "description" : "Lose it all.",
-    "cannotBeCheated" : true
-  },
-  "Losing America" : {
-    "image" : "https://i.imgur.com/Xl3TOMS.png",
-    "description" : "Fall to an old man without crossing the abyss.",
-    "cannotBeCheated" : true
-  },
-  "A Fren For The End Of The World" : {
-    "image" : "https://i.imgur.com/tPRR0fq.png",
-    "description" : "Beat the devil after exposing her tricks.",
-    "cannotBeCheated" : true
-  },
-  "motherfucker=redeemer" : {
-    "image" : "https://i.imgur.com/M4HU5iE.png",
-    "description" : "Start World War 3.",
-    "cannotBeCheated" : true
-  },
-  "Plan R" : {
-    "image" : "https://i.imgur.com/c4nAsLt.png",
-    "description" : "Have a mad general start World War 3.",
-    "cannotBeCheated" : true
-  },
-  "Doomsday Machine" : {
-    "image" : "https://i.imgur.com/lcETRCu.png",
-    "description" : "Mein Führer...! I can walk!!",
-    "cannotBeCheated" : true
-  },
-  "Red Pill" : {
-    "image" : "https://i.imgur.com/e9Z0Fyh.png",
-    "description" : "Wake Up",
-    "cannotBeCheated" : true
-  },
-  "The Radiant Tomorrow" : {
-    "image" : "https://i.imgur.com/4HVGSly.png",
-    "description" : "See stars and bars.",
-    "cannotBeCheated" : true
-  },
-  "Back Home in New Haven" : {
-    "image" : "https://i.imgur.com/v9Y8COL.png",
-    "description" : "Make Poppy Proud.",
-    "cannotBeCheated" : false
   }
   }
