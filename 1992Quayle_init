@@ -1015,14 +1015,39 @@ if(!campaignTrail_temp.loaded1){
     "description" : "Defeat Lyndon LaRouche.",
     "cannotBeCheated" : true
   },
+  "McGovern" : {
+    "image" : "https://i.imgur.com/2ueYl9H.jpeg",
+    "description" : "Defeat George McGovern.",
+    "cannotBeCheated" : true
+  },
   "Brown" : {
     "image" : "https://i.imgur.com/ecPIsfh.jpeg",
     "description" : "Defeat Jerry Brown.",
     "cannotBeCheated" : true
   },
+  "Tsongas" : {
+    "image" : "https://i.imgur.com/9QrpEJd.jpeg",
+    "description" : "Defeat Paul Tsongas.",
+    "cannotBeCheated" : true
+  },
+  "Rockefeller" : {
+      "image" : "https://i.imgur.com/RpgTqx5.jpeg",
+      "description" : "Defeat Jay Rockfeller.",
+      "cannotBeCheated" : true
+  },
   "Gore" : {
-    "image" : "https://i.imgur.com/YAo2O8W.jpeg",
-    "description" : "Defeat Al Gore.",
+      "image" : "https://i.imgur.com/YAo2O8W.jpeg",
+      "description" : "Defeat Al Gore.",
+      "cannotBeCheated" : true
+  },
+  "Schwarzkopf" : {
+    "image" : "https://i.imgur.com/4GCn4BN.png",
+    "description" : "Defeat Norman Schwarzkopf.",
+    "cannotBeCheated" : true
+  },
+  "Pat" : {
+    "image" : "https://i.imgur.com/5R28kY2.jpeg",
+    "description" : "Defeat Pat Schroder.",
     "cannotBeCheated" : true
   },
   "Kerrey" : {
@@ -1030,17 +1055,22 @@ if(!campaignTrail_temp.loaded1){
     "description" : "Defeat Bob Kerrey.",
     "cannotBeCheated" : true
   },
+  "Geppy" : {
+    "image" : "https://i.imgur.com/H8O068t.jpeg",
+    "description" : "Defeat Dick Gephardt.",
+    "cannotBeCheated" : true
+  },
   "Bentsen" : {
-      "image" : "https://i.imgur.com/E88g3b6.png",
-      "description" : "Defeat Lloyd Bentsen.",
-      "cannotBeCheated" : true
+    "image" : "https://i.imgur.com/E88g3b6.png",
+    "description" : "Defeat Lloyd Bentsen.",
+    "cannotBeCheated" : true
   },
-  "Cuomo" : {
-      "image" : "https://i.imgur.com/V8TiXin.jpeg",
-      "description" : "Defeat Mario Cuomo.",
-      "cannotBeCheated" : true
+  "Sleeping With the Fishes" : {
+    "image" : "https://i.imgur.com/V8TiXin.jpeg",
+    "description" : "Defeat Mario Cuomo.",
+    "cannotBeCheated" : true
   },
-  "Schwarzkopf" : {
+  "Stormin' Norman" : {
     "image" : "https://i.imgur.com/4GCn4BN.png",
     "description" : "Defeat Norman Schwarzkopf.",
     "cannotBeCheated" : true
@@ -1053,36 +1083,6 @@ if(!campaignTrail_temp.loaded1){
   "Pit Puppy" : {
     "image" : "https://i.imgur.com/uTxrt0B.jpeg",
     "description" : "Lose the 1992 Republican Primary.",
-    "cannotBeCheated" : true
-  },
-  "Portal of Power" : {
-    "image" : "https://i.imgur.com/AI68WIa.png",
-    "description" : "Face Dick Gephardt for re-election.",
-    "cannotBeCheated" : true
-  },
-  "Yuppie!" : {
-    "image" : "https://i.imgur.com/wsc2ZlQ.png",
-    "description" : "Face Gary Hart for re-election.",
-    "cannotBeCheated" : true
-  },
-  "Paradise Lost" : {
-    "image" : "https://i.imgur.com/Hbp05tC.png",
-    "description" : "Face The Deep State for re-election.",
-    "cannotBeCheated" : true
-  },
-  "Silicon Valley of Death" : {
-    "image" : "https://i.imgur.com/w7GVqlJ.png",
-    "description" : "Face Steve Jobs for re-election.",
-    "cannotBeCheated" : true
-  },
-  "Kernel Panic" : {
-    "image" : "https://i.imgur.com/eRBDWcF.png",
-    "description" : "Face Robert Rubin for re-election.",
-    "cannotBeCheated" : true
-  },
-  "Hated by the Establishment" : {
-    "image" : "https://i.imgur.com/fokD1AV.png",
-    "description" : "Win after completely alienating Congress.",
     "cannotBeCheated" : true
   },
   "Loved by the People" : {
