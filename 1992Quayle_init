@@ -10,7 +10,7 @@ if(!campaignTrail_temp.loaded1){
   
   campaignTrail_temp.modBoxTheme = {
        "header_color": "#232333",
-       "header_image_url": "https://i.imgur.com/5zieSYf.png",
+       "header_image_url": "https://i.imgur.com/3duzePM.png",
        "header_text_color": "#f5f3f4",
        "description_text_color": "#000000",
        "description_background_color": "#f5f3f4",
