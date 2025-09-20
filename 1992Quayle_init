@@ -304,13 +304,13 @@ if(!campaignTrail_temp.loaded1){
         text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
     }
     #inner_window_2 {
-      background-image: url('https://i.imgur.com/EuTU7G1.png'); 
+      background-image: url('https://i.imgur.com/XF5KyT8.png'); 
       background-repeat: repeat; 
       height: 494px; 
       color: #FFFFFF;
     }
     #inner_window_3 {
-      background-image: url('https://i.imgur.com/EuTU7G1.png'); 
+      background-image: url('https://i.imgur.com/XF5KyT8.png'); 
       background-repeat: repeat; 
       height: 494px;
     }
