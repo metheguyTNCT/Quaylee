@@ -1009,7 +1009,7 @@ const mainPlaylist = new Playlist([
     new Song( "Killing in the Name", "Rage Against the Machine", "https://i.imgur.com/1NSIqdt.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/KillingInTheName.mp3"),
     new Song( "Ignoreland", "R.E.M.", "https://i.imgur.com/wCfm9XZ.jpeg", "https://files.catbox.moe/txj35y.mp3"),
     new Song( "The Future", "Leonard Cohen", "https://i.imgur.com/6q6lHPt.jpeg", "https://audio.jukehost.co.uk/ditU7bH9e2CYjmPg5ZuFheXfT2M31PQj"),
-    new Song( "Come As You Are", "Nirvana", "https://i.imgur.com/6NpMOdK.jpeg", "https://files.catbox.moe/xia5u1.mp3"),
+    new Song( "Civil War", "Guns N Roses", "https://i.imgur.com/nUKcYWr.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/CivilWar.mp3"),
     new Song( "Power and Sacrifice", "Swans", "https://i.imgur.com/8ZxDXfD.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/Power%20and%20Sacrifice.mp3"),
 	new Song(
       "The American Dream Is Killing Me",
