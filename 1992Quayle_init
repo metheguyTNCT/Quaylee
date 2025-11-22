@@ -1011,29 +1011,6 @@ const mainPlaylist = new Playlist([
     new Song( "The Future", "Leonard Cohen", "https://i.imgur.com/6q6lHPt.jpeg", "https://audio.jukehost.co.uk/ditU7bH9e2CYjmPg5ZuFheXfT2M31PQj"),
     new Song( "Civil War", "Guns N Roses", "https://i.imgur.com/nUKcYWr.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/CivilWar.mp3"),
     new Song( "Power and Sacrifice", "Swans", "https://i.imgur.com/8ZxDXfD.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/Power%20and%20Sacrifice.mp3"),
-	new Song(
-      "The American Dream Is Killing Me",
-      "Green Day",
-      "https://upload.wikimedia.org/wikipedia/en/c/c9/Green_Day_-_Saviors.png",
-      "https://audio.jukehost.co.uk/xVflzX2agfU70s5rmti5BfQncpqLOCjw"
-    ),
-	new Song(
-      "Welcome To Hell",
-      "Black Midi",
-      "https://upload.wikimedia.org/wikipedia/en/1/12/Black_Midi_-_Hellfire.png",      
-      "https://audio.jukehost.co.uk/UIHdUryJ1XMkYpDsi6uTs9av0NwAy3dX"
-    ),
-	new Song(
-      "São Paulo",
-      "The Weeknd, Anitta",
-      "https://upload.wikimedia.org/wikipedia/en/7/72/The_Weeknd_and_Anitta_-_S%C3%A3o_Paulo.png",
-      "https://audio.jukehost.co.uk/vTA6uZ2eCK9uEB5HLUBzLICYLz3sDKPJ"
-    ),
-	new Song(
-      "Blind",
-      "SZA",
-      "https://upload.wikimedia.org/wikipedia/en/2/2c/SZA_-_S.O.S.png",
-      "https://audio.jukehost.co.uk/wDaCOSFko1S0NGERvwgKOIPWuShRNeOf"
     ),
 ]);
 
@@ -1052,12 +1029,12 @@ QuintoPlayer.init("#game_window", mainPlaylist);
     "description" : "Defeat George McGovern.",
     "cannotBeCheated" : true
   },
-  "Brown" : {
+  "Space Invaders" : {
     "image" : "https://i.imgur.com/ecPIsfh.jpeg",
     "description" : "Defeat Jerry Brown.",
     "cannotBeCheated" : true
   },
-  "Tsongas" : {
+  "Running on Ideas" : {
     "image" : "https://i.imgur.com/9QrpEJd.jpeg",
     "description" : "Defeat Paul Tsongas.",
     "cannotBeCheated" : true
@@ -1072,7 +1049,7 @@ QuintoPlayer.init("#game_window", mainPlaylist);
       "description" : "Defeat Al Gore.",
       "cannotBeCheated" : true
   },
-  "Pat" : {
+  "Poverty of Values" : {
     "image" : "https://i.imgur.com/5R28kY2.jpeg",
     "description" : "Defeat Pat Schroder.",
     "cannotBeCheated" : true
