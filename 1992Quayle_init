@@ -1006,7 +1006,7 @@ if (windowsAdvisorTargetNode) {
 // the songs.
 const mainPlaylist = new Playlist([
     new Song( "Jam", "Michael Jackson", "https://i.imgur.com/wREpkhY.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/Jam.mp3"),
-    new Song( "Lord Have Mercy on the Working Man", "Travis Tritt", "https://i.imgur.com/5EsjWFC.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/Tritt.mp3"),
+    new Song( "Killing in the Name", "Rage Against the Machine", "https://i.imgur.com/1NSIqdt.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/KillingInTheName.mp3"),
     new Song( "Ignoreland", "R.E.M.", "https://i.imgur.com/wCfm9XZ.jpeg", "https://files.catbox.moe/txj35y.mp3"),
     new Song( "The Future", "Leonard Cohen", "https://i.imgur.com/6q6lHPt.jpeg", "https://audio.jukehost.co.uk/ditU7bH9e2CYjmPg5ZuFheXfT2M31PQj"),
     new Song( "Come As You Are", "Nirvana", "https://i.imgur.com/6NpMOdK.jpeg", "https://files.catbox.moe/xia5u1.mp3"),
