@@ -1011,6 +1011,29 @@ const mainPlaylist = new Playlist([
     new Song( "The Future", "Leonard Cohen", "https://i.imgur.com/6q6lHPt.jpeg", "https://audio.jukehost.co.uk/ditU7bH9e2CYjmPg5ZuFheXfT2M31PQj"),
     new Song( "Civil War", "Guns N Roses", "https://i.imgur.com/nUKcYWr.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/CivilWar.mp3"),
     new Song( "Power and Sacrifice", "Swans", "https://i.imgur.com/8ZxDXfD.jpeg", "https://file.garden/Z7qfmQZIZjO_xV5N/Power%20and%20Sacrifice.mp3"),
+	new Song(
+      "Come As You Are",
+      "Nirvana",
+      "https://i.imgur.com/6NpMOdK.jpeg",
+      "https://file.garden/Z7qfmQZIZjO_xV5N/ComeAsYouAre.mp3"
+    ),
+	new Song(
+      "Right Here Right Now",
+      "Jesus Jones",
+      "https://i.imgur.com/ULdRi5e.jpeg",      
+      "https://file.garden/Z7qfmQZIZjO_xV5N/Right%20Here%20Right%20Now.mp3"
+    ),
+	new Song(
+      "Enter Sandman",
+      "Metallica",
+      "https://i.imgur.com/JOnh6kQ.jpeg",
+      "https://file.garden/Z-8vn6l_RynAMnyS/Metallica_%20Enter%20Sandman%20(Official%20Music%20Video).mp3"
+    ),
+	new Song(
+      "Lord Have Mercy on the Working Man",
+      "Travis Tritt",
+      "https://i.imgur.com/5EsjWFC.jpeg",
+      "https://file.garden/Z7qfmQZIZjO_xV5N/Tritt.mp3"
     ),
 ]);
 
@@ -1034,7 +1057,7 @@ QuintoPlayer.init("#game_window", mainPlaylist);
     "description" : "Defeat Jerry Brown.",
     "cannotBeCheated" : true
   },
-  "Running on Ideas" : {
+  "Tsongas" : {
     "image" : "https://i.imgur.com/9QrpEJd.jpeg",
     "description" : "Defeat Paul Tsongas.",
     "cannotBeCheated" : true
@@ -1049,7 +1072,7 @@ QuintoPlayer.init("#game_window", mainPlaylist);
       "description" : "Defeat Al Gore.",
       "cannotBeCheated" : true
   },
-  "Poverty of Values" : {
+  "Patriarch" : {
     "image" : "https://i.imgur.com/5R28kY2.jpeg",
     "description" : "Defeat Pat Schroder.",
     "cannotBeCheated" : true
