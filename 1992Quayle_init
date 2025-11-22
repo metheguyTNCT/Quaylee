@@ -1027,7 +1027,7 @@ const mainPlaylist = new Playlist([
       "Enter Sandman",
       "Metallica",
       "https://i.imgur.com/JOnh6kQ.jpeg",
-      "https://file.garden/Z-8vn6l_RynAMnyS/Metallica_%20Enter%20Sandman%20(Official%20Music%20Video).mp3"
+      "https://file.garden/Z7qfmQZIZjO_xV5N/EnterSandman.mp3"
     ),
 	new Song(
       "Lord Have Mercy on the Working Man",
